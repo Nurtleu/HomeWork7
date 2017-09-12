@@ -1,0 +1,6 @@
+F:\C#\HW7\HW7\bin\Debug\HW7.exe.config
+F:\C#\HW7\HW7\bin\Debug\HW7.exe
+F:\C#\HW7\HW7\bin\Debug\HW7.pdb
+F:\C#\HW7\HW7\obj\Debug\HW7.csprojResolveAssemblyReference.cache
+F:\C#\HW7\HW7\obj\Debug\HW7.exe
+F:\C#\HW7\HW7\obj\Debug\HW7.pdb
